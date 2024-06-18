@@ -1,0 +1,11 @@
+Mac-mini:~ joshlennix$ mkdir LE1
+Mac-mini:~ joshlennix$ cd LE1
+Mac-mini:LE1 joshlennix$ mkdir LE12
+Mac-mini:LE1 joshlennix$ pwd
+/Users/joshlennix/LE1
+Mac-mini:LE1 joshlennix$ cd LE12
+Mac-mini:LE12 joshlennix$ pwd
+/Users/joshlennix/LE1/LE12
+Mac-mini:LE12 joshlennix$ cd ..
+Mac-mini:LE1 joshlennix$ cd ..
+Mac-mini:~ joshlennix$ rm -rf LE1
